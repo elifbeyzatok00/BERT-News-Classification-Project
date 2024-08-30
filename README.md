@@ -2,7 +2,8 @@
 
 This project utilizes the BERT model for classifying news articles into one of four categories using the AG News dataset. The implementation includes tokenization, data preparation, and training of a sequence classification model using TensorFlow.
 
-![image](https://github.com/user-attachments/assets/757002ac-b27a-414f-a72e-4dd4a7e6919b)
+![image](https://huggingface.co/blog/assets/99_pretraining_bert/pre-training.png)
+
 
 ## Table of Contents
 
